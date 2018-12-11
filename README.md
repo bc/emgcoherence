@@ -1,2 +1,2 @@
 # emgcoherence
-Package to help out with emg coherence
+R Package to help out with emg coherence
